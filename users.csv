@@ -1,0 +1,78 @@
+user_id,first_name,last_name,gender,date_birth,date_hire,date_leave,employment,position,location,department,created_at
+74008,,,other,,,,,,Office,Support Centre,20/10/2021 11:15
+74025,,,female,21/04/1982,,,,Legal Officer,Office,Support Centre,20/10/2021 12:08
+74027,,,female,12/05/1992,01/07/2021,,,General Manager,Office,Support Centre,20/10/2021 12:10
+74042,,,female,10/01/1991,01/11/2021,31/10/2022,,Warehouse Officer - Purchasing,Office,Support Centre,20/10/2021 14:22
+74044,,,male,24/12/1991,04/01/2019,30/03/2022,,Dokter,Clinic,Medical,20/10/2021 14:22
+74049,,,female,28/12/1997,01/11/2021,31/10/2022,,Perawat,Clinic,Medical,20/10/2021 14:22
+74050,,,male,16/12/1997,01/11/2021,31/10/2022,,Perawat,Clinic,Medical,20/10/2021 14:22
+74052,,,female,18/07/1996,01/11/2021,31/10/2022,,Bidan,Clinic,Medical,20/10/2021 14:22
+74053,,,female,09/08/1970,15/04/2021,,,Dokter,Clinic,Medical,20/10/2021 14:22
+74054,,,female,07/10/2002,01/11/2021,30/04/2022,,Asisten Apoteker,Celuk,Pharmacy,20/10/2021 14:22
+74062,,,male,26/07/1984,,,,Direktur Utama,Office,Support Centre,20/10/2021 20:14
+74135,,,female,22/08/1981,,,,Direktur Pengembangan,Office,Support Centre,21/10/2021 7:10
+74138,,,female,,,,,Finance & Accounting,Office,Support Centre,21/10/2021 7:14
+74461,,,female,24/05/1994,01/11/2021,31/10/2022,,Apoteker,Gunung Catur,Pharmacy,24/10/2021 1:34
+74465,,,female,17/07/2002,01/11/2021,30/04/2022,,Asisten Apoteker,Celuk,Pharmacy,24/10/2021 3:47
+74556,,,female,31/12/2002,01/11/2021,31/10/2022,,Asisten Apoteker,Nu Orange,Pharmacy,25/10/2021 5:58
+74639,,,female,04/05/1966,01/11/2021,30/04/2022,,Asisten Apoteker,Nu Orange,Pharmacy,25/10/2021 10:24
+74745,,,other,01/01/2000,,05/05/2022,,Dokter,Clinic,Medical,25/10/2021 12:54
+75218,,,male,,,,,IT Spv,Office,Support Centre,27/10/2021 6:11
+75834,,,female,03/07/1996,,,,Dokter,Clinic,Medical,31/10/2021 8:15
+75839,,,female,29/04/1995,07/12/2020,05/05/2022,,Dokter,Clinic,Medical,31/10/2021 10:34
+75848,,,female,17/11/1995,,05/05/2022,,Dokter,Clinic,Medical,31/10/2021 13:51
+75914,,,male,04/04/1994,,,,Dokter,Clinic,Medical,31/10/2021 23:07
+75952,,,female,26/02/1999,12/11/2021,30/04/2022,,Purchasing,Office,Support Centre,01/11/2021 5:39
+75955,,,female,14/01/1995,,,,Dokter,Clinic,Medical,01/11/2021 5:45
+75963,,,male,20/08/1996,,,,Dokter,Clinic,Medical,01/11/2021 7:06
+75983,,,female,07/02/1993,,05/05/2022,,Dokter,Clinic,Medical,01/11/2021 8:19
+75986,,,female,06/05/1995,,05/05/2022,,Dokter,Celuk,Medical,01/11/2021 8:50
+79738,,,male,14/09/2000,01/12/2021,29/02/2024,,Perawat,Clinic,Medical,25/11/2021 7:32
+79765,,,male,12/06/1997,01/12/2021,,,Perawat,Clinic,Medical,25/11/2021 10:34
+81587,,,male,,,,,Dokter,Clinic,Medical,07/12/2021 14:31
+83884,,,female,03/06/1987,27/12/2021,26/12/2023,,Apoteker,Celuk,Pharmacy,25/12/2021 6:12
+83885,,,female,23/06/1998,27/12/2021,26/12/2022,,Apoteker,Nu Orange,Pharmacy,25/12/2021 6:12
+83888,,,female,29/08/1995,26/12/2021,,,Asisten Apoteker,Gunung Catur,Pharmacy,25/12/2021 7:26
+83893,,,female,05/09/1998,26/12/2021,05/05/2022,,Perawat,Clinic,Medical,25/12/2021 10:48
+83894,,,female,07/04/2000,26/12/2021,25/03/2022,,Perawat,Clinic,Medical,25/12/2021 11:05
+83902,,,female,03/12/1996,27/12/2021,,,Personal Assistance,Office,Support Centre,25/12/2021 13:27
+84488,,,male,17/04/2002,,,,Dokter,Clinic,Medical,30/12/2021 11:32
+84490,,,male,04/04/1996,,,,Dokter,Clinic,Medical,30/12/2021 11:35
+84509,,,male,04/06/1997,,,,,Office,,30/12/2021 12:57
+84517,,,male,05/07/1996,,,,Dokter,Clinic,Medical,30/12/2021 23:23
+84541,,,female,16/09/1996,31/12/2021,30/12/2023,,Dokter,Clinic,Medical,31/12/2021 7:49
+84699,,,male,30/01/1975,,,,,Office,Support Centre,04/01/2022 5:33
+84932,,,male,03/10/1996,,,,Dokter,Clinic,Medical,05/01/2022 10:46
+85877,,,male,07/06/1996,,,,Dokter,Clinic,Medical,12/01/2022 13:28
+87864,,,female,14/02/1996,01/02/2022,31/01/2024,,Dokter,Gunung Catur,Medical,21/01/2022 9:40
+88347,,,female,23/07/1999,01/02/2022,30/04/2022,,Marketing Staff,Office,Support Centre,26/01/2022 4:14
+88348,,,female,10/08/1999,02/02/2022,30/04/2022,,Admin Bisnis,Office,Support Centre,26/01/2022 4:14
+88357,,,female,19/11/1997,02/02/2022,30/04/2022,,Warehouse Staff,Office,PBF,26/01/2022 4:35
+90377,,,female,,,,,,Office,Support Centre,04/02/2022 8:06
+90710,,,male,01/12/1997,07/02/2022,07/05/2022,,Perawat,Clinic,Medical,06/02/2022 12:46
+90711,,,female,01/01/1992,07/02/2022,07/05/2022,,Perawat,Clinic,Medical,06/02/2022 13:00
+90862,,,female,10/08/1997,07/02/2022,07/05/2022,,Perawat,Clinic,Medical,07/02/2022 9:29
+91338,,,male,11/07/1991,01/02/2022,30/04/2022,,Perawat,Clinic,Medical,09/02/2022 12:47
+92930,,,female,22/03/2000,18/02/2022,18/05/2022,,Asisten Apoteker,Nu Orange,Pharmacy,16/02/2022 6:43
+93607,,,female,,,,,Dokter,Clinic,Medical,21/02/2022 0:11
+120666,,,female,04/03/1999,05/09/2022,08/08/2022,,Apoteker,Office,Pharmacy,09/05/2022 2:27
+120694,,,female,,,,,Asisten Apoteker,Office,Pharmacy,09/05/2022 8:16
+120696,,,female,,,,,Asisten Apoteker,Office,Pharmacy,09/05/2022 8:28
+121592,,,female,11/04/1999,05/01/2022,,,Asisten Apoteker,Office,Pharmacy,16/05/2022 7:44
+125721,,,female,,,,,Dokter,Clinic,Medical,04/06/2022 13:42
+125744,,,,,,,,Dokter,Clinic,Medical,05/06/2022 4:16
+125748,,,,,,,,,Clinic,,05/06/2022 5:03
+126082,,,,,,,,,Clinic,,06/06/2022 17:18
+128325,,,female,07/06/1981,14/06/2022,,,,Office,PBF,15/06/2022 2:54
+129675,,,,,,,,,Clinic,,17/06/2022 13:13
+130650,,,,,,,,,Office,,22/06/2022 4:06
+132484,,,male,,,,part_time,Dokter,Clinic,Medical,30/06/2022 8:52
+138225,,,female,,01/08/2022,,,Dokter,Clinic,Medical,31/07/2022 16:09
+146166,,,female,30/01/1999,01/09/2022,31/08/2023,,Perawat,Clinic,Medical,29/08/2022 8:49
+146182,,,female,10/12/1997,01/09/2022,31/08/2023,,,Gunung Catur,Pharmacy,29/08/2022 9:34
+155509,,,male,03/10/2002,20/09/2022,19/08/2022,,Warehouse Staff,Office,PBF,23/09/2022 0:46
+157837,,,female,,,,,Admin Bisnis,Office,,03/10/2022 1:34
+157916,,,,,,,,,Clinic,,03/10/2022 5:59
+159207,,,,,,,,,Office,,10/10/2022 8:43
+159217,,,,,,,,,Nu Orange,,10/10/2022 9:29
+160306,,,,,,,,,Nu Orange,,16/10/2022 9:57

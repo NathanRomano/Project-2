@@ -1,0 +1,93 @@
+user_id,first_name,last_name,type,leave_type,dates,time_start,time_end,timezone,status,created_at
+,,,leave,day_off,27/10/2021,,,,accepted,25/10/2021 12:38
+,,,leave,day_off,12/11/2021,,,,accepted,07/11/2021 15:20
+74465,,,leave,unpaid,16/11/2021,,,,accepted,15/11/2021 13:45
+75839,,,leave,day_off,24/11/2021,,,,accepted,16/11/2021 2:18
+74042,,,leave,day_off,28/11/2021,,,,accepted,27/11/2021 7:06
+74054,,,leave,sick,23/12/2021,,,,accepted,23/12/2021 4:04
+74049,,,leave,sick,09/12/2021,,,,accepted,27/12/2021 13:50
+74049,,,leave,sick, 2021-12-10,,,,accepted,27/12/2021 13:50
+74049,,,leave,sick, 2021-12-11,,,,accepted,27/12/2021 13:50
+74049,,,leave,sick, 2021-12-12,,,,accepted,27/12/2021 13:50
+74049,,,leave,sick, 2021-12-13,,,,accepted,27/12/2021 13:50
+74049,,,leave,sick, 2021-12-14,,,,accepted,27/12/2021 13:50
+74044,,,leave,sick,07/01/2022,,,,accepted,07/01/2022 2:25
+74044,,,leave,sick, 2022-01-08,,,,accepted,07/01/2022 2:25
+74042,,,leave,annual,11/03/2022,,,,accepted,01/03/2022 7:45
+74461,,,leave,compensatory,30/06/2022,,,,accepted,28/05/2022 7:08
+83885,,,leave,annual,03/06/2022,,,,accepted,28/05/2022 7:49
+88348,,,leave,day_off,07/06/2022,,,,accepted,03/06/2022 10:02
+88348,,,leave,day_off, 2022-06-08,,,,accepted,03/06/2022 10:02
+88348,,,leave,day_off, 2022-06-09,,,,accepted,03/06/2022 10:02
+83902,,,leave,day_off,07/06/2022,,,,accepted,03/06/2022 12:25
+83902,,,leave,day_off,17/06/2022,,,,accepted,09/06/2022 4:29
+88348,,,leave,day_off,14/06/2022,,,,accepted,13/06/2022 9:22
+74042,,,leave,compensatory,28/06/2022,,,,accepted,16/06/2022 8:33
+74042,,,leave,compensatory, 2022-06-29,,,,accepted,16/06/2022 8:33
+88357,,,leave,sick,23/06/2022,,,,accepted,23/06/2022 13:04
+88357,,,leave,sick, 2022-06-24,,,,accepted,23/06/2022 13:04
+74049,,,leave,sick,20/06/2022,,,,accepted,27/06/2022 23:14
+74049,,,leave,sick, 2022-06-21,,,,accepted,27/06/2022 23:14
+74049,,,leave,sick, 2022-06-22,,,,accepted,27/06/2022 23:14
+74049,,,leave,sick, 2022-06-23,,,,accepted,27/06/2022 23:14
+74049,,,leave,sick, 2022-06-24,,,,accepted,27/06/2022 23:14
+74049,,,leave,sick, 2022-06-25,,,,accepted,27/06/2022 23:14
+74049,,,leave,sick, 2022-06-26,,,,accepted,27/06/2022 23:14
+74049,,,leave,sick, 2022-06-27,,,,accepted,27/06/2022 23:14
+74049,,,leave,sick, 2022-06-28,,,,accepted,27/06/2022 23:14
+74042,,,leave,compensatory,30/06/2022,,,,accepted,29/06/2022 10:27
+88357,,,leave,day_off,11/07/2022,,,,accepted,11/07/2022 0:47
+88357,,,leave,compensatory,12/07/2022,,,,accepted,12/07/2022 13:11
+88357,,,leave,compensatory, 2022-07-13,,,,accepted,12/07/2022 13:11
+88357,,,leave,unpaid,14/07/2022,,,,accepted,14/07/2022 1:47
+74461,,,leave,compensatory,27/07/2022,,,,accepted,18/07/2022 8:28
+88357,,,leave,sick,15/07/2022,,,,rejected,19/07/2022 11:20
+88357,,,leave,sick, 2022-07-16,,,,rejected,19/07/2022 11:20
+88357,,,leave,sick, 2022-07-17,,,,rejected,19/07/2022 11:20
+88357,,,leave,sick, 2022-07-18,,,,rejected,19/07/2022 11:20
+88357,,,leave,sick, 2022-07-19,,,,rejected,19/07/2022 11:20
+88357,,,leave,sick, 2022-07-20,,,,rejected,19/07/2022 11:20
+74042,,,leave,compensatory,01/08/2022,,,,accepted,22/07/2022 8:44
+74042,,,leave,compensatory, 2022-08-02,,,,accepted,22/07/2022 8:44
+83902,,,leave,day_off,29/07/2022,,,,accepted,26/07/2022 4:16
+74461,,,leave,compensatory,27/09/2022,,,,accepted,30/07/2022 3:35
+74461,,,leave,compensatory, 2022-09-28,,,,accepted,30/07/2022 3:35
+74461,,,leave,compensatory, 2022-09-29,,,,accepted,30/07/2022 3:35
+74461,,,leave,compensatory, 2022-09-30,,,,accepted,30/07/2022 3:35
+79765,,,leave,annual,07/08/2022,,,,accepted,01/08/2022 9:04
+74052,,,leave,compensatory,06/08/2022,,,,accepted,01/08/2022 9:43
+74049,,,leave,compensatory,13/08/2022,,,,accepted,07/08/2022 23:54
+88348,,,leave,day_off,10/08/2022,,,,accepted,09/08/2022 2:31
+74042,,,leave,compensatory,20/08/2022,,,,accepted,15/08/2022 1:01
+120666,,,leave,compensatory,21/08/2022,,,,accepted,16/08/2022 8:18
+83885,,,leave,compensatory,27/08/2022,,,,accepted,18/08/2022 8:57
+74556,,,leave,annual,01/09/2022,,,,accepted,24/08/2022 7:22
+74556,,,leave,annual, 2022-09-02,,,,accepted,24/08/2022 7:22
+74556,,,leave,annual, 2022-09-03,,,,accepted,24/08/2022 7:22
+74556,,,leave,annual, 2022-09-04,,,,accepted,24/08/2022 7:22
+79738,,,leave,compensatory,26/08/2022,,,,accepted,24/08/2022 13:09
+88357,,,leave,compensatory,29/08/2022,,,,accepted,25/08/2022 2:18
+88357,,,leave,compensatory, 2022-08-30,,,,accepted,25/08/2022 2:18
+88357,,,leave,compensatory, 2022-08-31,,,,accepted,25/08/2022 2:18
+88357,,,leave,special,01/09/2022,,,,accepted,25/08/2022 2:20
+88357,,,leave,special, 2022-09-02,,,,accepted,25/08/2022 2:20
+88357,,,leave,special, 2022-09-03,,,,accepted,25/08/2022 2:20
+88357,,,leave,unpaid,05/09/2022,,,,accepted,25/08/2022 2:21
+88357,,,leave,unpaid, 2022-09-06,,,,accepted,25/08/2022 2:21
+88357,,,leave,unpaid, 2022-09-07,,,,accepted,25/08/2022 2:21
+74052,,,leave,compensatory,04/09/2022,,,,accepted,31/08/2022 10:13
+74049,,,leave,compensatory,13/09/2022,,,,accepted,07/09/2022 7:18
+88357,,,leave,unpaid,08/09/2022,,,,accepted,07/09/2022 14:34
+88357,,,leave,unpaid, 2022-09-09,,,,accepted,07/09/2022 14:34
+88357,,,leave,unpaid, 2022-09-10,,,,accepted,07/09/2022 14:34
+79765,,,leave,annual,20/09/2022,,,,accepted,17/09/2022 9:05
+79738,,,leave,compensatory,28/09/2022,,,,accepted,23/09/2022 5:49
+74042,,,leave,compensatory,28/09/2022,,,,accepted,26/09/2022 6:43
+74042,,,leave,compensatory,11/10/2022,,,,accepted,03/10/2022 8:10
+74042,,,leave,compensatory, 2022-10-12,,,,accepted,03/10/2022 8:10
+88348,,,leave,annual,10/10/2022,,,,accepted,04/10/2022 6:59
+74052,,,leave,compensatory,09/10/2022,,,,accepted,06/10/2022 7:04
+74049,,,leave,compensatory,14/10/2022,,,,accepted,08/10/2022 0:35
+83884,,,leave,compensatory,22/10/2022,,,,accepted,13/10/2022 9:23
+83884,,,leave,compensatory, 2022-10-23,,,,accepted,13/10/2022 9:23
+74049,,,leave,compensatory,21/10/2022,,,,pending,17/10/2022 4:17
